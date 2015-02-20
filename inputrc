@@ -1,0 +1,7 @@
+set bell-style none
+set meta-flag on
+set convert-meta off
+set output-meta on
+set completion-ignore-case on
+
+TAB: menu-complete
